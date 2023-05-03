@@ -1,14 +1,13 @@
 {
-  "name": "Carketa Valuation v2 [DEV]",
-  "version": "0.0.1",
-  "description": "This is a supercharged version of Carketa Valuation Chrome Extension. Created by: Alex",
+  "name": "Carketa Vehicle Information",
+  "version": "0.0.4",
+  "description": "Allows you to click on VIN numbers to see vehicle data on Carketa.com",
   "manifest_version": 3,
   "page_action": {
     "default_icon": {
       "16": "images/valuation_icon.png",
       "32": "images/valuation_icon.png"
       }
-   
   },
   "icons": {
     "16": "images/valuation_icon.png",
